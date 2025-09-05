@@ -65,7 +65,7 @@ This project is built on a modern computer vision pipeline:
 Execute the main script from your terminal.
 
 ```bash
-python virtual_mouse.py
+python myfile.py
 ```
 A window will pop up showing your camera feed. Hold up your hand and start controlling your computer! **Press 'q' to quit.**
 

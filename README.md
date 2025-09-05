@@ -52,7 +52,7 @@ This project is built on a modern computer vision pipeline:
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/AI-Gesture-Virtual-Mouse.git
+    git clone https://github.com/amirmallaei/AI-Gesture-Virtual-Mouse.git
     cd AI-Gesture-Virtual-Mouse
     ```
 
